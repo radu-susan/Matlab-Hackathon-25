@@ -1,1 +1,1 @@
-The starter code has been provided by the organizers, given that the time was only about 4 hours in total. We had to build a succesful trajectory for a Parrot minidrone in simulink.
+The starter code has been provided by the organizers, given that the time was only about 4 hours in total. We had to build a succesful trajectory for a Parrot minidrone in simulink. The link to the team's page:https://devpost.com/software/a-si-r?_gl=1*1gjz2ad*_ga*MTk1MzYzODY4Ni4xNzQ5MTM2NzEy
